@@ -1,0 +1,5 @@
+[action]
+exit
+global-options
+insert-newline-indent
+backspace

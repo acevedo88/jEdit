@@ -1,0 +1,171 @@
+Log file created on Sun Feb 09 12:58:07 MST 2020
+IMPORTANT:
+Because updating this file after every log message would kill
+performance, it will be *incomplete* unless you invoke the
+Utilities->Troubleshooting->Update Activity Log on Disk command!
+12:58:06 PM [main] [message] Log: When reporting bugs, please include the following information:
+12:58:06 PM [main] [message] Log: java.version=1.8.0_181
+12:58:06 PM [main] [message] Log: java.vm.version=25.181-b13
+12:58:06 PM [main] [message] Log: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+12:58:06 PM [main] [message] Log: java.runtime.version=1.8.0_181-b13
+12:58:06 PM [main] [message] Log: java.runtime.name=Java(TM) SE Runtime Environment
+12:58:06 PM [main] [message] Log: java.vendor=Oracle Corporation
+12:58:06 PM [main] [message] Log: java.compiler=null
+12:58:06 PM [main] [message] Log: os.name=Mac OS X
+12:58:06 PM [main] [message] Log: os.version=10.15.3
+12:58:06 PM [main] [message] Log: os.arch=x86_64
+12:58:06 PM [main] [message] Log: user.home=/Users/alexacevedo
+12:58:06 PM [main] [message] Log: java.home=/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre
+12:58:06 PM [main] [message] Log: java.class.path=/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/jedit.jar
+12:58:06 PM [main] [message] jEdit: starting with command line arguments: -settings=/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings
+12:58:06 PM [main] [debug] jEdit: before splash screen activation:27 ms
+12:58:07 PM [main] [debug] jEdit: after splash screen activation:1747 ms
+12:58:07 PM [main] [debug] MiscUtilities: Saving backup of file "/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/activity.log" to "/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/settings-backup/activity.log~1~"
+12:58:07 PM [main] [notice] jEdit: jEdit version 5.5.0
+12:58:07 PM [main] [message] jEdit: Settings directory is /Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings
+12:58:07 PM [main] [message] jEdit: jEdit home directory is /Users/alexacevedo/Desktop/CS/CS471/jEdit/build
+12:58:07 PM [main] [debug] SplashScreen: init:13/1430ms
+12:58:07 PM [main] [debug] SplashScreen: init system properties:11/1441ms
+12:58:07 PM [main] [message] BeanShell: Beanshell Init
+12:58:07 PM [main] [debug] SplashScreen: init beanshell:27/1468ms
+12:58:07 PM [main] [debug] SplashScreen: loading site properties:0/1468ms
+12:58:07 PM [main] [debug] SplashScreen: loading user properties:2/1470ms
+12:58:07 PM [main] [debug] GUIUtilities: Icon theme set to: tango
+12:58:07 PM [main] [debug] GUIUtilities: Loading icon theme from: jeditresource:/org/gjt/sp/jedit/icons/themes/tango/
+12:58:07 PM [main] [debug] SplashScreen: init GUI:1/1471ms
+12:58:07 PM [main] [debug] EditServer: jEdit server started on port 58163
+12:58:07 PM [main] [debug] EditServer: Authorization key is 1913367227
+12:58:07 PM [main] [debug] SplashScreen: init server:24/1495ms
+12:58:07 PM [main] [debug] jEdit: initPLAF non-edt old=com.apple.laf.AquaLookAndFeel requested=null new=com.apple.laf.AquaLookAndFeel
+12:58:07 PM [main] [debug] SplashScreen: init look and feel:3/1498ms
+12:58:07 PM [main] [debug] SplashScreen: init VFS Manager:0/1498ms
+12:58:07 PM [main] [debug] ActionSet: Loading actions from jar:file:/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/jedit.jar!/org/gjt/sp/jedit/actions.xml
+12:58:07 PM [main] [debug] DockableWindowManager: Loading dockables from jar:file:/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/jedit.jar!/org/gjt/sp/jedit/dockables.xml
+12:58:07 PM [main] [debug] SplashScreen: init resources:46/1544ms
+12:58:07 PM [AWT-EventQueue-0] [debug] EditBus: SearchSettingsChanged[source=null]
+12:58:07 PM [main] [debug] SplashScreen: Migrate keymaps:21/1565ms
+12:58:07 PM [main] [notice] jEdit: Loading plugins from /Users/alexacevedo/Desktop/CS/CS471/jEdit/build/jars
+12:58:07 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=LOADED,exit=false,version=1.3,source=/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/jars/MacOSX.jar,class=macosx.MacOSXPlugin]
+12:58:07 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=LOADED,exit=false,version=5.0,source=/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/jars/QuickNotepad.jar,class=QuickNotepadPlugin]
+12:58:07 PM [main] [notice] jEdit: Loading plugins from /Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/jars
+12:58:07 PM [main] [debug] SplashScreen: init plugins:6/1571ms
+12:58:07 PM [main] [message] HistoryModel: Loading history
+12:58:07 PM [main] [debug] SplashScreen: init history model:2/1573ms
+12:58:07 PM [main] [message] BufferHistory: Loading /Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/recent.xml
+12:58:07 PM [main] [debug] SplashScreen: init buffer history:2/1575ms
+12:58:07 PM [main] [message] KillRing: Loading /Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/killring.xml
+12:58:07 PM [main] [debug] SplashScreen: init killring:5/1580ms
+12:58:07 PM [main] [debug] jEdit: initPLAF non-edt old=com.apple.laf.AquaLookAndFeel requested=null new=com.apple.laf.AquaLookAndFeel
+12:58:07 PM [main] [debug] jEdit: SOCKS proxy disabled
+12:58:07 PM [main] [debug] jEdit: HTTP proxy disabled
+12:58:07 PM [AWT-EventQueue-0] [debug] EditBus: PropertiesChanged[source=null]
+12:58:07 PM [main] [debug] SplashScreen: init various properties:49/1629ms
+12:58:07 PM [main] [message] jEdit: Loading mode catalog file /Users/alexacevedo/Desktop/CS/CS471/jEdit/build/modes/catalog
+12:58:08 PM [main] [message] jEdit: Loading mode catalog file /Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/modes/catalog
+12:58:08 PM [main] [debug] SplashScreen: init modes:28/1657ms
+12:58:08 PM [main] [debug] PluginJAR: Activating macosx.MacOSXPlugin because of startup
+12:58:08 PM [main] [debug] PluginJAR: Opening /Users/alexacevedo/Desktop/CS/CS471/jEdit/build/jars/MacOSX.jar
+12:58:08 PM [main] [debug] SplashScreen: activate plugins:5/1662ms
+12:58:08 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=ACTIVATED,exit=false,version=1.3,source=/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/jars/MacOSX.jar,class=macosx.MacOSXPlugin]
+12:58:08 PM [main] [debug] Macros: Registered beanshell macro handler
+12:58:08 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=macros,source=null]
+12:58:08 PM [main] [debug] SplashScreen: init macros:9/1671ms
+12:58:08 PM [main] [message] BeanShell: Running script /Users/alexacevedo/Desktop/CS/CS471/jEdit/build/startup/startup.bsh
+12:58:08 PM [main] [notice] jEdit$5: Loading edit mode /Users/alexacevedo/Desktop/CS/CS471/jEdit/build/modes/text.xml
+12:58:08 PM [main] [debug] String: BeanShell interpreter version 2.0b4-jedit
+12:58:08 PM [main] [debug] SplashScreen: run startup scripts:61/1732ms
+12:58:08 PM [main] [debug] SplashScreen: run startup scripts:0/1732ms
+12:58:08 PM [main] [debug] SplashScreen: run startup scripts:1/1733ms
+12:58:08 PM [main] [debug] jEdit: main done:2093 ms
+12:58:08 PM [AWT-EventQueue-0] [message] PerspectiveManager: Loading /Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/perspective.xml
+12:58:08 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=Untitled-1 (~/Downloads/jEdit/)]
+12:58:08 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=Untitled-1 (~/Downloads/jEdit/)]
+12:58:08 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=Untitled-1 (~/Downloads/jEdit/)]
+12:58:08 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=Untitled-1 (~/Downloads/jEdit/)]
+12:58:08 PM [AWT-EventQueue-0] [debug] BufferSet: 1306606190: addBufferSetListener org.gjt.sp.jedit.EditPane[inactive]
+12:58:08 PM [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[inactive]]
+12:58:08 PM [AWT-EventQueue-0] [debug] BufferSet: 1306606190 addBufferAt(Untitled-1 (~/Downloads/jEdit/),-1)
+12:58:08 PM [AWT-EventQueue-0] [debug] BufferSet: 1306606190: Buffer added Untitled-1 (~/Downloads/jEdit/) at 0
+12:58:08 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=CREATED,source=org.gjt.sp.jedit.EditPane[inactive]]
+12:58:08 PM [AWT-EventQueue-0] [debug] BufferSet: 1306606190 addBufferAt(Untitled-1 (~/Downloads/jEdit/),0)
+12:58:08 PM [AWT-EventQueue-0] [debug] BufferSet: 1306606190 addBufferAt(Untitled-1 (~/Downloads/jEdit/),1)
+12:58:08 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=CREATED,source=org.gjt.sp.jedit.View[active]]
+12:58:08 PM [AWT-EventQueue-0] [debug] EditBus: EditorStarted[source=null]
+12:58:08 PM [AWT-EventQueue-0] [message] jEdit: Startup complete: 2515 ms
+12:58:08 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=VIEW_ACTIVATED,source=org.gjt.sp.jedit.View[active]]
+12:58:08 PM [AWT-EventQueue-0] [debug] JEditTextArea: InputMethodSupport is activated
+12:58:10 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=VIEW_ACTIVATED,source=org.gjt.sp.jedit.View[active]]
+12:58:10 PM [AWT-EventQueue-0] [debug] jEdit: checkBufferStatus for all buffers
+12:58:20 PM [AWT-EventQueue-0] [debug] jEdit: initPLAF edt old=com.apple.laf.AquaLookAndFeel requested=null new=com.apple.laf.AquaLookAndFeel
+12:58:20 PM [AWT-EventQueue-0] [debug] jEdit: SOCKS proxy disabled
+12:58:20 PM [AWT-EventQueue-0] [debug] jEdit: HTTP proxy disabled
+12:58:20 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=Untitled-1 (~/Downloads/jEdit/)]
+12:58:20 PM [AWT-EventQueue-0] [debug] EditBus: PropertiesChanged[source=null]
+12:58:20 PM [AWT-EventQueue-0] [message] BufferHistory: Saving /Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/recent.xml
+12:58:20 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/recent.xml" to "/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/settings-backup/recent.xml~1~"
+12:58:20 PM [AWT-EventQueue-0] [message] KillRing: Saving /Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/killring.xml
+12:58:20 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/killring.xml" to "/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/settings-backup/killring.xml~1~"
+12:58:20 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/properties" to "/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/settings-backup/properties~1~"
+12:58:20 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=VIEW_ACTIVATED,source=org.gjt.sp.jedit.View[active]]
+12:58:20 PM [AWT-EventQueue-0] [debug] jEdit: checkBufferStatus for all buffers
+12:58:21 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=DIRTY_CHANGED,view=null,source=Untitled-1 (~/Downloads/jEdit/)]
+12:58:22 PM [AWT-EventQueue-0] [debug] EditBus: PositionChanging[what=POSITION_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+12:58:35 PM [AWT-EventQueue-0] [debug] jEdit: initPLAF edt old=com.apple.laf.AquaLookAndFeel requested=null new=com.apple.laf.AquaLookAndFeel
+12:58:35 PM [AWT-EventQueue-0] [debug] jEdit: SOCKS proxy disabled
+12:58:35 PM [AWT-EventQueue-0] [debug] jEdit: HTTP proxy disabled
+12:58:35 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=Untitled-1 (~/Downloads/jEdit/)]
+12:58:35 PM [AWT-EventQueue-0] [debug] EditBus: PropertiesChanged[source=null]
+12:58:35 PM [AWT-EventQueue-0] [message] BufferHistory: Saving /Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/recent.xml
+12:58:35 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/recent.xml" to "/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/settings-backup/recent.xml~1~"
+12:58:35 PM [AWT-EventQueue-0] [message] KillRing: Saving /Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/killring.xml
+12:58:35 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/killring.xml" to "/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/settings-backup/killring.xml~1~"
+12:58:35 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/properties" to "/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/settings-backup/properties~1~"
+12:58:36 PM [AWT-EventQueue-0] [debug] jEdit: initPLAF edt old=com.apple.laf.AquaLookAndFeel requested=null new=com.apple.laf.AquaLookAndFeel
+12:58:36 PM [AWT-EventQueue-0] [debug] jEdit: SOCKS proxy disabled
+12:58:36 PM [AWT-EventQueue-0] [debug] jEdit: HTTP proxy disabled
+12:58:36 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=Untitled-1 (~/Downloads/jEdit/)]
+12:58:36 PM [AWT-EventQueue-0] [debug] EditBus: PropertiesChanged[source=null]
+12:58:36 PM [AWT-EventQueue-0] [message] BufferHistory: Saving /Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/recent.xml
+12:58:36 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/recent.xml" to "/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/settings-backup/recent.xml~1~"
+12:58:36 PM [AWT-EventQueue-0] [message] KillRing: Saving /Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/killring.xml
+12:58:36 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/killring.xml" to "/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/settings-backup/killring.xml~1~"
+12:58:36 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/properties" to "/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/settings-backup/properties~1~"
+12:58:36 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=VIEW_ACTIVATED,source=org.gjt.sp.jedit.View[active]]
+12:58:36 PM [AWT-EventQueue-0] [debug] jEdit: checkBufferStatus for all buffers
+12:58:37 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/perspective.xml" to "/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/settings-backup/perspective.xml~1~"
+12:58:40 PM [AWT-EventQueue-0] [debug] EditBus: EditorExitRequested[source=org.gjt.sp.jedit.View[active]]
+12:58:40 PM [AWT-EventQueue-0] [message] PerspectiveManager: Saving /Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/perspective.xml
+12:58:40 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/perspective.xml" to "/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/settings-backup/perspective.xml~1~"
+12:58:40 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+12:58:40 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CLOSING,view=org.gjt.sp.jedit.View[active],source=Untitled-1 (~/Downloads/jEdit/)]
+12:58:40 PM [AWT-EventQueue-0] [debug] BufferSet: 1306606190: Buffer removed Untitled-1 (~/Downloads/jEdit/)
+12:58:40 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=Untitled-1 (~/Downloads/jEdit/)]
+12:58:40 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=Untitled-1 (~/Downloads/jEdit/)]
+12:58:40 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=Untitled-1 (~/Downloads/jEdit/)]
+12:58:40 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=Untitled-1 (~/Downloads/jEdit/)]
+12:58:40 PM [AWT-EventQueue-0] [debug] BufferSet: 1306606190 addBufferAt(Untitled-1 (~/Downloads/jEdit/),-1)
+12:58:40 PM [AWT-EventQueue-0] [debug] BufferSet: 1306606190: Buffer added Untitled-1 (~/Downloads/jEdit/) at 0
+12:58:40 PM [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+12:58:40 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=BUFFER_CHANGED,source=org.gjt.sp.jedit.EditPane[active]]
+12:58:40 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CLOSED,view=org.gjt.sp.jedit.View[active],source=Untitled-1 (~/Downloads/jEdit/)]
+12:58:40 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=CLOSED,source=org.gjt.sp.jedit.View[active]]
+12:58:40 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=DESTROYED,source=org.gjt.sp.jedit.EditPane[active]]
+12:58:40 PM [AWT-EventQueue-0] [debug] BufferSet: 1306606190: Buffer removed Untitled-1 (~/Downloads/jEdit/)
+12:58:40 PM [AWT-EventQueue-0] [debug] BufferSetManager: Buffer:Untitled-1 (~/Downloads/jEdit/) is in no bufferSet anymore, closing it
+12:58:40 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CLOSING,view=null,source=Untitled-1 (~/Downloads/jEdit/)]
+12:58:40 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CLOSED,view=null,source=Untitled-1 (~/Downloads/jEdit/)]
+12:58:40 PM [AWT-EventQueue-0] [message] BufferHistory: Saving /Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/recent.xml
+12:58:40 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/recent.xml" to "/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/settings-backup/recent.xml~1~"
+12:58:40 PM [AWT-EventQueue-0] [message] KillRing: Saving /Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/killring.xml
+12:58:40 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/killring.xml" to "/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/settings-backup/killring.xml~1~"
+12:58:40 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/properties" to "/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/settings-backup/properties~1~"
+12:59:27 PM [AWT-EventQueue-0] [debug] EditBus: EditorExitRequested[source=null]
+12:59:27 PM [AWT-EventQueue-0] [debug] EditBus: EditorExiting[source=null]
+12:59:27 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=DEACTIVATED,exit=true,version=1.3,source=/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/jars/MacOSX.jar,class=macosx.MacOSXPlugin]
+12:59:27 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=UNLOADED,exit=true,version=1.3,source=/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/jars/MacOSX.jar,class=macosx.MacOSXPlugin]
+12:59:27 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=UNLOADED,exit=true,version=5.0,source=/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/jars/QuickNotepad.jar,class=QuickNotepadPlugin]
+12:59:27 PM [AWT-EventQueue-0] [message] BufferHistory: Saving /Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/recent.xml
+12:59:27 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/recent.xml" to "/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/settings-backup/recent.xml~1~"
+12:59:27 PM [AWT-EventQueue-0] [message] KillRing: Saving /Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/killring.xml
+12:59:27 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/killring.xml" to "/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/settings-backup/killring.xml~1~"
+12:59:27 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/properties" to "/Users/alexacevedo/Desktop/CS/CS471/jEdit/build/settings/settings-backup/properties~1~"
